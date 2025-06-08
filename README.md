@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Stała nie jest zmienną ona nie zmienia wartości!!1!!
+
 ## Authors
 
 - [@Fretkaaa](https://www.github.com/fretkaaa) (seems like just me for now...)
