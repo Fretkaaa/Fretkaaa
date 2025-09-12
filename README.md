@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Stała [###const] nie jest zmienną ona nie zmienia wartości!!1!!
+> Stała ```const``` nie jest zmienną ona nie zmienia wartości!!1!!
 
 ## Authors
 
