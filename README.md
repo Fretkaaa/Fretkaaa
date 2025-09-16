@@ -1,4 +1,4 @@
-[!logo](https://github.com/user-attachments/assets/f873cf90-eca6-4ee2-bf4d-a06157279c91")
+<img width="1810" height="630" alt="week" src="https://github.com/user-attachments/assets/f873cf90-eca6-4ee2-bf4d-a06157279c91" />
 
 > [!IMPORTANT]
 > Stała ```const``` nie jest zmienną ona nie zmienia wartości!!1!!
