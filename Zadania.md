@@ -56,3 +56,11 @@ Konstruktor to metoda uruchamiania przy tworzeniu obiektu do jego inicjalizacji,
 # 11. Co oznacza słowo kluczowe this w klasie
 
 ```this``` to wskaźnik na aktualny obiekt używany np. w odróżnieniu pól klasy od parametrów funkcji lub zwracania samego obiektu w metodach
+
+# 12. Czym jest tablica i jak ją zadeklarować
+
+zmienna przechowująca wiele elementów, danych.
+
+```cpp
+int liczby[5] = {10, 20, 30, 40, 50};
+```
