@@ -31,17 +31,33 @@ Klasa to szablon, który definiuje cechy (dane, atrybuty) i zachowania (metody, 
 
 # 8. Jak zdefiniować klasę w  C++ i jak utworzyć jej obiekt
 ```cpp
-class Osoba {
-public: 
-std::string imie;
-int wiek;
+#include <iostream>
+using namespace std;
 
-void wyswietlInformacje() {
-}
+class Samochod {
+public:
+    string marka;
+    int rok;
 
-private:
-std::string numerPESEL;
+    void przedstawSie() {
+        cout << "Samochod: " << marka << ", rok: " << rok << endl;
+    }
 };
+
+int main() {
+    Samochod auto1;   // obiekt klasy Samochod; auto2 to nazwa obiektu klasy Samochod
+    auto1.marka = "Toyota";
+    auto1.rok = 2020;
+
+    Samochod auto2;   // drugi obiekt
+    auto2.marka = "BMW";
+    auto2.rok = 2018;
+
+    auto1.przedstawSie();
+    auto2.przedstawSie();
+
+    return 0;
+}
 ```
 # 9. Co to są specyfikatory dostępu (public, private, protected) i jakie mają znaczenie
 
