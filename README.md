@@ -4,11 +4,6 @@
 > Stała ```const``` nie jest zmienną ona nie zmienia wartości!!1!!
 -->
 
-
-## Authors
-
-- [@Fretkaaa](https://www.github.com/fretkaaa) (seems like just me for now...)
-  
 ## Languages i know
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"  />
