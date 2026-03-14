@@ -1,4 +1,8 @@
-## About me
+<h2>
+  <img src="https://cdn3.emoji.gg/emojis/495186-thumbsup.gif" width="40">
+    About Me
+</h2>
+
 I'm a Junior Web programmer, making sites and discord bots in JavaScript and Python.<br>
 More likely to become Network Engineer
 
