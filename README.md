@@ -1,5 +1,5 @@
 <h2>
-  <img src="https://cdn3.emoji.gg/emojis/495186-thumbsup.gif" width="40">
+  <img src="https://cdn3.emoji.gg/emojis/902734-cheeks.gif" width="20">
     About Me
 </h2>
 
