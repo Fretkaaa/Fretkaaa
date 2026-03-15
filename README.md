@@ -9,6 +9,11 @@ More likely to become Network Engineer
 ## languages
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,html,css,js,php" />
+</p
+
+Soon...
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,react" />
 </p>
 
 ## Tools
