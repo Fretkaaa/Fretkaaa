@@ -4,8 +4,8 @@
 </h2>
 
 I'm a Junior Web programmer, making sites and discord bots in JavaScript and Python.<br>
-More likely to become Network Engineer
-
+I can also make discord bots using `Discord.js` or `Discord.py`<br>
+More likely to become Network Engineer.
 ## languages
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,html,css,js,php" />
@@ -13,7 +13,7 @@ More likely to become Network Engineer
 
 Soon...
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,react" />
+  <img src="https://skillicons.dev/icons?i=cpp,react,tailwind" />
 </p>
 
 ## Tools
@@ -30,7 +30,7 @@ Soon...
   <a href="https://git-scm.com">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   </a>
-  <a href="https://discordjs.org">
+  <!-- <a href="https://discordjs.org">
     <img src="https://img.shields.io/badge/Discord.JS-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
+  </a>  -->
 </p>
