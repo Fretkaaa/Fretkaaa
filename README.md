@@ -3,8 +3,7 @@
     About Me
 </h2>
 
-I'm a Junior Web programmer, making sites and discord bots in JavaScript and Python.<br>
-I can also make discord bots using `Discord.js` or `Discord.py`<br>
+I'm a Junior Web programmer, making sites and Discord bots using `Discord.js` or `Discord.py`<br>
 More likely to become Network Engineer.
 ## languages
 <p align="center">
