@@ -1,6 +1,6 @@
 <h2>
   <!-- <img src="https://cdn3.emoji.gg/emojis/902734-cheeks.gif" width="20"> -->
-    About Me
+    :octocat: About Me
 </h2>
 
 I'm a Junior Web programmer, making sites and Discord bots using `Discord.js` or `Discord.py`<br>
@@ -10,7 +10,8 @@ More likely to become Network Engineer.
     <img src="https://skillicons.dev/icons?i=python,html,css,js,php" />
 </p
 
-Soon...
+## Learning
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,react,tailwind" />
 </p>
