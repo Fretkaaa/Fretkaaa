@@ -24,7 +24,7 @@ More likely to become Network Engineer.
   <a href="https://code.visualstudio.com">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   </a>
-  <a href="https://discordjs.org">
+  <a href="https://visualstudio.microsoft.com">
     <img src="https://img.shields.io/badge/Visual%20Studio-%23CF9FFF.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
   </a> 
   <a href="https://git-scm.com">
