@@ -3,7 +3,7 @@
     :octocat: About Me
 </h2>
 
-I'm a Junior Web programmer, making sites and Discord bots using `Discord.js` or `Discord.py`<br>
+I'm a dum ahh bih, making sites and Discord bots using `Discord.js` or `Discord.py`<br>
 More likely to become Network Engineer.
 ## languages
 <p align="center">
